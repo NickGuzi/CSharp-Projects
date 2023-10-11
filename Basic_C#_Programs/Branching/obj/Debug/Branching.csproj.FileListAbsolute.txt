@@ -1,0 +1,7 @@
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\Branching\bin\Debug\Branching.exe.config
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\Branching\bin\Debug\Branching.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\Branching\bin\Debug\Branching.pdb
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\Branching\obj\Debug\Branching.csproj.AssemblyReference.cache
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\Branching\obj\Debug\Branching.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\Branching\obj\Debug\Branching.pdb
