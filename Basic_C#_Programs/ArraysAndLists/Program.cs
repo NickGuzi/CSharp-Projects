@@ -29,8 +29,8 @@ namespace ArraysAndLists
 
             if (choice == 1)
             {
-                int i = 0;
-                while (i < 10)
+                
+                while (true)
                 {
                     Console.WriteLine("Please select a number between 0 and 5 to get a hockey team...");
                     var secondSelection = int.Parse(Console.ReadLine());
@@ -67,11 +67,10 @@ namespace ArraysAndLists
             //GAME TWO
 
             List<string> userList = new List<string>();
-            int j = 0;
 
             Console.WriteLine("Now we're going to let you create a list...");
 
-            while (j < 100)
+            while (true)
             {
                 Console.WriteLine("Enter any word of your desire!");
                 string input = Console.ReadLine();
@@ -106,7 +105,7 @@ namespace ArraysAndLists
 
             int indices = userList.Count - 1;
 
-            while (j < 100)
+            while (true)
             {
                 Console.WriteLine("Pick a number between 0 and " + indices + " to see a word's associated position");
                 var pick = int.Parse(Console.ReadLine());
@@ -141,7 +140,7 @@ namespace ArraysAndLists
 
             int[] nums = { 66, 42, 19, 48, 33, 99, 1032, 1221, 1456 };
 
-            while (j < 100)
+            while (true)
             {
                 Console.WriteLine("Pick a number between 0 and 8 to see that position's number");
                 var number = int.Parse(Console.ReadLine());
