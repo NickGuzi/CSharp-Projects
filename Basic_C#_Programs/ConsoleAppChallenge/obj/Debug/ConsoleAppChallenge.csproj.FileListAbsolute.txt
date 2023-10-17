@@ -1,0 +1,7 @@
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\ConsoleAppChallenge\bin\Debug\ConsoleAppChallenge.exe.config
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\ConsoleAppChallenge\bin\Debug\ConsoleAppChallenge.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\ConsoleAppChallenge\bin\Debug\ConsoleAppChallenge.pdb
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\ConsoleAppChallenge\obj\Debug\ConsoleAppChallenge.csproj.AssemblyReference.cache
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\ConsoleAppChallenge\obj\Debug\ConsoleAppChallenge.csproj.CoreCompileInputs.cache
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\ConsoleAppChallenge\obj\Debug\ConsoleAppChallenge.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\ConsoleAppChallenge\obj\Debug\ConsoleAppChallenge.pdb
