@@ -1,0 +1,7 @@
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice2\obj\Debug\MethodPractice2.csproj.AssemblyReference.cache
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice2\obj\Debug\MethodPractice2.csproj.CoreCompileInputs.cache
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice2\bin\Debug\MethodPractice2.exe.config
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice2\bin\Debug\MethodPractice2.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice2\bin\Debug\MethodPractice2.pdb
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice2\obj\Debug\MethodPractice2.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice2\obj\Debug\MethodPractice2.pdb
