@@ -20,7 +20,7 @@ namespace MethodPractice4
             var input2 = int.Parse(Console.ReadLine());
 
             func.funcOne(input1, input2, out answer);
-            Console.WriteLine(input1 + " times 2 equals: " + answer);
+            Console.WriteLine(input1 + " divided by 2 equals: " + answer);
 
             //THIS IS FOR CLASS SUBMISSION ASSIGNMENT
             func.funcOne(input1, out answer2, input2);

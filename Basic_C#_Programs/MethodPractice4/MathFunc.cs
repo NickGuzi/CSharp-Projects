@@ -10,7 +10,7 @@ namespace MethodPractice4
     {
         public void funcOne(int int1, int int2, out int answer)
         {
-            answer = int1 * 2;
+            answer = int1 / 2;
 
             Console.WriteLine("This is the second number you entered: " + int2);
         }
