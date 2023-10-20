@@ -1,0 +1,7 @@
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice4\bin\Debug\MethodPractice4.exe.config
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice4\bin\Debug\MethodPractice4.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice4\bin\Debug\MethodPractice4.pdb
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice4\obj\Debug\MethodPractice4.csproj.AssemblyReference.cache
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice4\obj\Debug\MethodPractice4.csproj.CoreCompileInputs.cache
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice4\obj\Debug\MethodPractice4.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice4\obj\Debug\MethodPractice4.pdb
