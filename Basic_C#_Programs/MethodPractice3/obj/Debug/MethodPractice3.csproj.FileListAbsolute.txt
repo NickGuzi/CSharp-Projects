@@ -1,0 +1,7 @@
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice3\bin\Debug\MethodPractice3.exe.config
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice3\bin\Debug\MethodPractice3.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice3\bin\Debug\MethodPractice3.pdb
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice3\obj\Debug\MethodPractice3.csproj.AssemblyReference.cache
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice3\obj\Debug\MethodPractice3.csproj.CoreCompileInputs.cache
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice3\obj\Debug\MethodPractice3.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice3\obj\Debug\MethodPractice3.pdb
