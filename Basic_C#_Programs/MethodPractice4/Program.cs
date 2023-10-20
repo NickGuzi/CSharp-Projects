@@ -12,6 +12,7 @@ namespace MethodPractice4
         {
             MathFunc func = new MathFunc();
             int answer;
+            int answer2;
 
             Console.WriteLine("Please enter a whole number: ");
             var input1 = int.Parse(Console.ReadLine());
@@ -20,7 +21,12 @@ namespace MethodPractice4
 
             func.funcOne(input1, input2, out answer);
             Console.WriteLine(input1 + " times 2 equals: " + answer);
+
+            //THIS IS FOR CLASS SUBMISSION ASSIGNMENT
+            func.funcOne(input1, out answer2, input2);
+            Console.WriteLine(input1 + " times " + input2 + " equals: " + answer2);
             Console.ReadLine();
+
 
         }
     }

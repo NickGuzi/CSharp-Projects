@@ -14,5 +14,10 @@ namespace MethodPractice4
 
             Console.WriteLine("This is the second number you entered: " + int2);
         }
+        //THIS IS FOR CLASS SUBMISSION ASSIGNMENT
+        public void funcOne(int int1, out int answer2, int int2)
+        {
+            answer2 = int1 * int2;
+        }
     }
 }
