@@ -16,16 +16,20 @@ namespace MethodPractice4
 
             Console.WriteLine("Please enter a whole number: ");
             var input1 = int.Parse(Console.ReadLine());
+
+            func.funcOne(input1, out answer);
+            Console.WriteLine(input1 + " divided by 2 equals: " + answer);
+
             Console.WriteLine("Please enter a second whole number: ");
             var input2 = int.Parse(Console.ReadLine());
-
-            func.funcOne(input1, input2, out answer);
-            Console.WriteLine(input1 + " divided by 2 equals: " + answer);
 
             //THIS IS FOR CLASS SUBMISSION ASSIGNMENT
             func.funcOne(input1, out answer2, input2);
             Console.WriteLine(input1 + " times " + input2 + " equals: " + answer2);
             Console.ReadLine();
+
+            //Static class call
+            StaticClass.statMeth();
 
 
         }

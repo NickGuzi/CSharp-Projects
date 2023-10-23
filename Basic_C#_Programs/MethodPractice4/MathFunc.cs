@@ -8,15 +8,14 @@ namespace MethodPractice4
 {
     public class MathFunc
     {
-        public void funcOne(int int1, int int2, out int answer)
+        public void funcOne(int int1, out int answer)
         {
             answer = int1 / 2;
-
-            Console.WriteLine("This is the second number you entered: " + int2);
         }
         //THIS IS FOR CLASS SUBMISSION ASSIGNMENT
         public void funcOne(int int1, out int answer2, int int2)
         {
+            Console.WriteLine("This is the second number you entered: " + int2);
             answer2 = int1 * int2;
         }
     }
