@@ -1,0 +1,6 @@
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodsPractice5\bin\Debug\MethodsPractice5.exe.config
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodsPractice5\bin\Debug\MethodsPractice5.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodsPractice5\bin\Debug\MethodsPractice5.pdb
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodsPractice5\obj\Debug\MethodsPractice5.csproj.CoreCompileInputs.cache
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodsPractice5\obj\Debug\MethodsPractice5.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodsPractice5\obj\Debug\MethodsPractice5.pdb
