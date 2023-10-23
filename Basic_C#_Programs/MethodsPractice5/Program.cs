@@ -16,6 +16,13 @@ namespace MethodsPractice5
             name.SayName();
             Console.ReadLine();
 
+            IQuittable quit = new Employee();
+            quit.Quit();
+            Console.ReadLine();
+
+
+
+
 
         }
     }

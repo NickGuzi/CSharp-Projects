@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MethodsPractice5
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         public int Id { get; set; }
 
@@ -14,6 +14,11 @@ namespace MethodsPractice5
         {
             Console.WriteLine("Employees: ");
             base.SayName();
+        }
+
+        public void Quit()
+        {
+            Console.WriteLine("Enter name of Employee who quit here: ");
         }
     }
 }
