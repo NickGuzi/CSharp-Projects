@@ -1,0 +1,6 @@
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\ParametersSubmission\bin\Debug\ParametersSubmission.exe.config
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\ParametersSubmission\bin\Debug\ParametersSubmission.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\ParametersSubmission\bin\Debug\ParametersSubmission.pdb
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\ParametersSubmission\obj\Debug\ParametersSubmission.csproj.CoreCompileInputs.cache
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\ParametersSubmission\obj\Debug\ParametersSubmission.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\ParametersSubmission\obj\Debug\ParametersSubmission.pdb

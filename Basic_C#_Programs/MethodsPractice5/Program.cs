@@ -21,6 +21,7 @@ namespace MethodsPractice5
             name2.LastName = "Guzi";
             name2.Id = 2;
             name2.SayName();
+
             Console.ReadLine();
 
             Console.WriteLine("Are employee 1 and employee 2 the same person? \n" + (name == name2));
