@@ -11,11 +11,11 @@ namespace ParametersSubmission
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public int ID { get; set; }
-        public Employee(int id, string fn, string ln)
+        public Employee(int id, string fName, string lName)
         {
             id = ID;
-            fn = FirstName;
-            ln = LastName;
+            fName = FirstName;
+            lName = LastName;
         }
         public List<T> things { get; set; }
     }
