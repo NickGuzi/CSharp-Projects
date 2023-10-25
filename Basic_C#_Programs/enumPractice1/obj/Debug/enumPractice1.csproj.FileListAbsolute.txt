@@ -1,0 +1,6 @@
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\enumPractice1\bin\Debug\enumPractice1.exe.config
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\enumPractice1\bin\Debug\enumPractice1.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\enumPractice1\bin\Debug\enumPractice1.pdb
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\enumPractice1\obj\Debug\enumPractice1.csproj.CoreCompileInputs.cache
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\enumPractice1\obj\Debug\enumPractice1.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\enumPractice1\obj\Debug\enumPractice1.pdb
