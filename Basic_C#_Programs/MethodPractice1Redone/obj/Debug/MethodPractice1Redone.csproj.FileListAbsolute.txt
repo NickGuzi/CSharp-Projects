@@ -1,0 +1,6 @@
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice1Redone\bin\Debug\MethodPractice1Redone.exe.config
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice1Redone\bin\Debug\MethodPractice1Redone.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice1Redone\bin\Debug\MethodPractice1Redone.pdb
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice1Redone\obj\Debug\MethodPractice1Redone.csproj.CoreCompileInputs.cache
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice1Redone\obj\Debug\MethodPractice1Redone.exe
+C:\Users\nickg\Documents\GitHub\CSharp-Projects\Basic_C#_Programs\MethodPractice1Redone\obj\Debug\MethodPractice1Redone.pdb
