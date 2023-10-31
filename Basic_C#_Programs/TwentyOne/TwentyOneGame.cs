@@ -21,6 +21,7 @@ namespace TwentyOne
             Dealer.Hand = new List<Card>();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
+            Dealer.Deck.Shuffle();
             Console.WriteLine("Place your bet: ");
 
             foreach(Player player in Players)
@@ -36,9 +37,9 @@ namespace TwentyOne
             for(int i = 0; i<2; i++)
             {
                 Console.WriteLine("Dealing...");
-                foreach(Player player in Player)
+                foreach(Player player in Players)
                 {
-                    Console.Write("{0} ", player.Name);
+                    Console.Write("{0}: ", player.Name);
                     Dealer.Deal(player.Hand);
                     if(i == 1)
                     {
@@ -63,6 +64,7 @@ namespace TwentyOne
                         {
                             Dealer.Balance += entry.Value;
                         }
+                        return;
                     }
                 }
             }
@@ -96,10 +98,12 @@ namespace TwentyOne
                         if(answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
                         {
                             player.isActivelyPlaying = true;
+                            return;
                         }
                         else
                         {
                             player.isActivelyPlaying = false;
+                            return;
                         }
                     }
                 }
