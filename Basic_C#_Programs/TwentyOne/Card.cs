@@ -12,10 +12,7 @@ namespace TwentyOne
         public Face Face { get; set; }
         public override string ToString()
         {
-            return base.ToString();
-            {
                 return string.Format("{0} of {1}", Face, Suit);
-            }
         }
     }
     public enum Suit
