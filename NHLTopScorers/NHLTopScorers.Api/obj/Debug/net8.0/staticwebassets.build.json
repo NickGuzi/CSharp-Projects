@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y1byHTvVSKAigvb30QxG8xdXlcGrV2jcUmIqIjnEi9Y=",
+  "Source": "NHLTopScorers.Api",
+  "BasePath": "_content/NHLTopScorers.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
