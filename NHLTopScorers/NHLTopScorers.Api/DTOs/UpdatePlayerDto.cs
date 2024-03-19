@@ -1,6 +1,6 @@
 ﻿namespace NHLTopScorers.Api.DTOs;
 
-public record class CreatePlayerDto(
+public record class UpdatePlayerDto(
     string name,
     int goals,
     int assists,

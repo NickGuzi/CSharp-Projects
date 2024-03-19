@@ -2,7 +2,7 @@
 
 public record class PlayerDto(
     int Id, 
-    string Name, 
+    string name, 
     int goals,
     int assists,
     int totalPoints);

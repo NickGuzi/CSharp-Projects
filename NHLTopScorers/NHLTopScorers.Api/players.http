@@ -2,3 +2,25 @@ GET http://localhost:5110/players
 
 ###
 GET http://localhost:5110/players/1
+
+###
+POST http://localhost:5110/players
+Content-Type: application/json
+
+{
+    "Name": "Ro Franci",
+    "Goals": 800,
+    "Assists": 1048,
+    "TotalPoints": 1851
+}
+
+###
+PUT http://localhost:5110/players/5
+Content-Type: application/json
+
+{
+    "Name": "Ron Francis",
+    "Goals": 549,
+    "Assists": 1249,
+    "TotalPoints": 1798
+}

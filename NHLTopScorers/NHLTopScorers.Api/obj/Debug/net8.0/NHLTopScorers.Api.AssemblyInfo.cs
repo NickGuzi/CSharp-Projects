@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NHLTopScorers.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0db6cda30b673691197ce6aeb4ace2e77be58b92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+054653c837cfd5f382f0f259a89cc7b2c0b36f45")]
 [assembly: System.Reflection.AssemblyProductAttribute("NHLTopScorers.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NHLTopScorers.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
